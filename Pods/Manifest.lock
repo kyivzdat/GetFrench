@@ -1,0 +1,16 @@
+PODS:
+  - SelectionList (1.4.0)
+
+DEPENDENCIES:
+  - SelectionList
+
+SPEC REPOS:
+  trunk:
+    - SelectionList
+
+SPEC CHECKSUMS:
+  SelectionList: 668c293ec698f1d0e514414c9feec8312023ff5d
+
+PODFILE CHECKSUM: 2ece9578c8b7ff028f400cfefdedbefb8789c257
+
+COCOAPODS: 1.8.4
